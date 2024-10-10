@@ -302,5 +302,13 @@ export const clients: ClientData[] = [
       "https://x.com/rcarback",
       "https://carback.us/rick/contact/"
     ],
+  },  {
+    description: "Mad implemenation of JAM in the code-golfing stats language Jelly",
+    homepage: "https://github.com/ltfschoen/jam",
+    name: "Temazejam",
+    lang: "Jelly",
+    lang_set: "Z",
+    milestone: 0,
+    contact: [`"JP Brissot" <jellepruim@mail.com>`],
   },
 ]
